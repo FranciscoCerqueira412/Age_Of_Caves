@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Launcher.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Gamemode.unity
+    guid: 3ed68bb0c0d093e4491ec1ae38cfca36
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 17319c519aa828f43a013a94eca8c3a7
+  - enabled: 1
+    path: Assets/Scenes/LobbySurvival.unity
+    guid: eb94a4e058f498149be3a771b0edd205
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: b283cbccdd7bbf5469c5b46681d4b8bc
+  - enabled: 1
+    path: Assets/Scenes/GameSurvival.unity
+    guid: 55009339285b48f419630232e86fb5b9
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 2b545f7f12ca5f440a3f27bd79619a2e,
+      type: 2}
