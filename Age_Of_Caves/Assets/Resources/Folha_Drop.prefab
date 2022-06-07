@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5748935409626586113}
   - component: {fileID: 5748935409626586118}
   - component: {fileID: -7357990794328699595}
+  - component: {fileID: 421658263628236100}
   m_Layer: 0
   m_Name: Folha_Drop
   m_TagString: Untagged
@@ -106,3 +107,22 @@ MonoBehaviour:
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
+--- !u!95 &421658263628236100
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5748935409626586119}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 83cf4c4f77bbb0d41aa365c43053399f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
